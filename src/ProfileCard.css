@@ -1,0 +1,15 @@
+.profile-card {
+  margin: 20px 0;
+}
+.profile-img {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+}
+.profile-icon {
+  margin-right: 10px;
+}
+.pull-right{
+float: right;
+}
+.text-right{text-align: right;}
